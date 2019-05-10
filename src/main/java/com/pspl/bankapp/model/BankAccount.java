@@ -63,7 +63,7 @@ public abstract class BankAccount implements BankSpecification {
 	
 	static {
 		accIdGenerator = 1000;
-		bankName = "Axis Bank";
+		bankName = "ICICI Bank";
 	}
 	
 }
